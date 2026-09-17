@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF 소설 집필"
+  short_description: "장면 카드와 정본을 바탕으로 한국어 SF 원고를 집필하고 퇴고합니다."
+  default_prompt: "$sf-novel-draft 스킬로 현재 브리프와 정본에 맞는 한국어 SF 장면을 집필하거나 수정해 주세요."

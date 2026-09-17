@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF 소설 설계"
+  short_description: "SF 전제를 세계의 규칙과 인물의 선택, 인과 플롯으로 설계"
+  default_prompt: "$sf-novel-design을 사용해 현재 브리프에서 필요한 세계관·인물·플롯만 설계해 주세요."

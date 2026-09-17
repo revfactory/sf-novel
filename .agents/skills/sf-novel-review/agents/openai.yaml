@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF 소설 검토"
+  short_description: "SF 원고의 서사·문장·과학·연속성을 근거로 검토하고 수정안을 제안합니다."
+  default_prompt: "$sf-novel-review 스킬로 현재 한국어 SF 원고의 서사·과학·연속성을 검토하고 근거와 최소 수정안을 정리해 주세요."

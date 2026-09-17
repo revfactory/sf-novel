@@ -1,0 +1,11 @@
+Codex Harness
+
+Derived from Harness by revfactory / robin:
+https://github.com/revfactory/harness
+Upstream revision: cceac68ea1d0ad198ef4b7b906cd238375836387
+Upstream license: Apache License, Version 2.0 (see LICENSE).
+
+Modified 2026-09-07: Codex-native skill, custom agent definitions, orchestration
+protocol, project installation, static validation and documentation.
+The original Claude Code instruction and plugin files are retained in
+archive/upstream. This migration is not an OpenAI product or endorsement.

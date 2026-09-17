@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF 소설 집필 총괄"
+  short_description: "한국어 SF 소설의 구상부터 집필과 퇴고까지 단계별 작업을 연결합니다"
+  default_prompt: "$sf-novel-orchestrator SF 소설의 현재 진행 상태를 읽고 다음 집필 작업을 진행해줘."

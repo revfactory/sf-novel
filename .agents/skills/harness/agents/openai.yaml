@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Harness"
+  short_description: "Codex 멀티 에이전트 하네스를 설계·생성·검증·유지보수"
+  default_prompt: "Use $harness to inspect this project and build or update its Codex multi-agent harness with clear ownership and verified results."
+policy:
+  allow_implicit_invocation: true
